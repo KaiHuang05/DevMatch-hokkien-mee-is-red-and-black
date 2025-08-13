@@ -5,10 +5,12 @@
 <h1 align="center"><b>FraudGuard</b></h1>
 
 ---
+
 ## **Core Features & User Stories (MVP Scope)**
 <p align="center">
   <img src="frontend/public/Architecture.png" alt="FraudGuard Logo">
 </p>
+
 ---
 
 # 📄 Product Requirements Document: FraudGuard

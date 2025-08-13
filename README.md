@@ -7,7 +7,7 @@
 ---
 ## **Core Features & User Stories (MVP Scope)**
 <p align="center">
-  <img src="frontend/public/Architecture.png" alt="FraudGuard Logo" width="250">
+  <img src="frontend/public/Architecture.png" alt="FraudGuard Logo">
 </p>
 ---
 
